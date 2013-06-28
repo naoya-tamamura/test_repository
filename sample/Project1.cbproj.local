@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/12/09 18:17:07.953.cpp,C:\Documents and Settings\tamamura\My Documents\RAD Studio\Projects\Unit1.cpp=C:\DD2\マックアドレス\Unit1.cpp</Transaction>
+    <Transaction>2011/12/09 18:17:07.953.h,C:\Documents and Settings\tamamura\My Documents\RAD Studio\Projects\Unit1.h=C:\DD2\マックアドレス\Unit1.h</Transaction>
+    <Transaction>2011/12/09 18:17:07.953.dfm,C:\Documents and Settings\tamamura\My Documents\RAD Studio\Projects\Unit1.dfm=C:\DD2\マックアドレス\Unit1.dfm</Transaction>
+    <Transaction>2011/12/09 18:17:09.640.cbproj,C:\Documents and Settings\tamamura\My Documents\RAD Studio\Projects\Project1.cbproj=C:\DD2\マックアドレス\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
